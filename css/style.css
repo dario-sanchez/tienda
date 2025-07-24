@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(221, 221, 221, 0.966);
+}
+
+.bg-tsplus {
+    background-color: #FC9204;
+}
+.bg-tsplus-alt {
+    background-color: #08778A;
+}
+.text-tsplus {
+    color: #FC9204;
+}
+.text-tsplus-alt {
+    color: #08778A;
+}
+
+.btn-tsplus {
+    background-color: #FC9204;
+}
+
+.btn-tsplus:active {
+    background-color: #e68200;
+}
+
+.noScroll {
+    height: 100%;
+    overflow-y: hidden;
+}

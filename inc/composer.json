@@ -1,0 +1,15 @@
+{
+    "require": {
+        "illuminate/database": "^8.83",
+        "vlucas/phpdotenv": "^5.4",
+        "openpay/sdk": "^3.0",
+        "dompdf/dompdf": "^1.2",
+        "nesbot/carbon": "^2.57",
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Models\\":"Models"
+        }
+    }
+}

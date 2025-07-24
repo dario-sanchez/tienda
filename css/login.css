@@ -1,0 +1,381 @@
+@media(max-width: 499px) {
+    section#content {
+        padding: 20px 20px;
+    }
+
+    form {
+        background: url("images/fondo.png");
+        margin: -10px 0px;
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        padding: 20px;
+    }
+
+    form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    form input {
+        display: block;
+        padding: 10px;
+        max-width: 90%;
+        margin: 30px auto;
+        font-size: 20px;
+        outline: 1px;
+        outline-color: rgba(52, 82, 89, 0.7);
+        border: none;
+        border-bottom: 2px solid rgba(52, 82, 89, 0.7);
+    }
+
+    form input[type="submit"] {
+        width: 70%;
+        background: #495D5C;
+        border: 0;
+        color: orange;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+    }
+
+    form input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    form input[type="submit"]:active {
+        transform: scale(0.95);
+    }
+
+    form .img {
+        width: 200px;
+        height: 40px;
+    }
+
+    form .links {
+        display: block;
+        margin-top: 10px;
+    }
+
+    form .links a {
+        font-size: 12px;
+        display: block;
+        margin: 5px;
+        text-decoration: none;
+        color: rgb(52, 82, 89);
+    }
+
+    form .links a:hover {
+        color: #2D7B67;
+    }
+
+}
+
+@media (min-width: 500px) and (max-width: 680px) {
+    section#content {
+        padding: 20px 20px;
+    }
+
+    form {
+        background: url("images/fondo.png");
+        margin: -10px 0px;
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        padding: 20px;
+    }
+
+    form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    form input {
+        display: block;
+        padding: 10px;
+        width: 90%;
+        margin: 30px auto;
+        font-size: 20px;
+        outline: 1px;
+        outline-color: rgba(52, 82, 89, 0.7);
+        border: none;
+        border-bottom: 2px solid rgba(52, 82, 89, 0.7);
+    }
+
+    form input[type="submit"] {
+        max-width: 60%;
+        background: #495D5C;
+        border: 0;
+        color: orange;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+    }
+
+    form input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    form input[type="submit"]:active {
+        transform: scale(0.95);
+    }
+
+    form .img {
+        width: 200px;
+        height: 40px;
+    }
+
+    form .links {
+        display: block;
+        margin-top: 10px;
+        padding-left: 7%;
+        padding-top: 3%;
+
+    }
+
+    form .links a {
+        font-size: 12px;
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        color: rgb(52, 82, 89);
+    }
+
+    form .links a:hover {
+        color: #2D7B67;
+    }
+
+}
+
+
+
+@media (min-width: 680px) and (max-width: 850px) {
+    section#content {
+        padding: 20px 20px;
+    }
+
+    form {
+        background: url("images/fondo.png");
+        margin: 10px auto;
+        width: 80%;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        padding: 20px;
+    }
+
+    form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    form input {
+        display: block;
+        padding: 10px;
+        width: 90%;
+        margin: 30px auto;
+        font-size: 20px;
+        outline: 1px;
+        outline-color: rgba(52, 82, 89, 0.7);
+        border: none;
+        border-bottom: 2px solid rgba(52, 82, 89, 0.7);
+    }
+
+    form input[type="submit"] {
+        max-width: 60%;
+        background: #495D5C;
+        border: 0;
+        color: orange;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+    }
+
+    form input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    form input[type="submit"]:active {
+        transform: scale(0.95);
+    }
+
+    form .img {
+        width: 200px;
+        height: 40px;
+    }
+
+    form .links {
+        display: block;
+        margin-top: 10px;
+        padding-left: 7%;
+        padding-top: 3%;
+
+    }
+
+    form .links a {
+        font-size: 12px;
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        color: rgb(52, 82, 89);
+    }
+
+    form .links a:hover {
+        color: #2D7B67;
+    }
+
+}
+
+@media (min-width: 850px) and (max-width: 1099px) {
+    section#content {
+        padding: 20px 20px;
+    }
+
+    form {
+        background: url("images/fondo.png");
+        margin: 10px auto;
+        max-width: 50%;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        padding: 20px;
+    }
+
+    form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    form input {
+        display: block;
+        padding: 10px;
+        width: 90%;
+        margin: 30px auto;
+        font-size: 20px;
+        outline: 1px;
+        outline-color: rgba(52, 82, 89, 0.7);
+        border: none;
+        border-bottom: 2px solid rgba(52, 82, 89, 0.7);
+    }
+
+    form input[type="submit"] {
+        max-width: 60%;
+        background: #495D5C;
+        border: 0;
+        color: orange;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+    }
+
+    form input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    form input[type="submit"]:active {
+        transform: scale(0.95);
+    }
+
+    form .img {
+        width: 200px;
+        height: 40px;
+    }
+
+    form .links {
+        display: block;
+        margin-top: 10px;
+        padding-left: 7%;
+        padding-top: 3%;
+
+    }
+
+    form .links a {
+        font-size: 12px;
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        color: rgb(52, 82, 89);
+    }
+
+    form .links a:hover {
+        color: #2D7B67;
+    }
+}
+
+@media (min-width: 1100px) {
+    section#content {
+        padding: 20px 20px;
+    }
+
+    form {
+        background: url("images/fondo.png");
+        margin: 10px auto;
+        max-width: 40%;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        padding: 20px;
+    }
+
+    form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    form input {
+        display: block;
+        padding: 10px;
+        width: 90%;
+        margin: 30px auto;
+        font-size: 20px;
+        outline: 1px;
+        outline-color: rgba(52, 82, 89, 0.7);
+        border: none;
+        border-bottom: 2px solid rgba(52, 82, 89, 0.7);
+    }
+
+    form input[type="submit"] {
+        max-width: 60%;
+        background: #495D5C;
+        border: 0;
+        color: orange;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+    }
+
+    form input[type="submit"]:hover {
+        opacity: 1;
+    }
+
+    form input[type="submit"]:active {
+        transform: scale(0.95);
+    }
+
+    form .img {
+        width: 200px;
+        height: 40px;
+    }
+
+    form .links {
+        display: block;
+        margin-top: 10px;
+        padding-left: 7%;
+        padding-top: 3%;
+
+    }
+
+    form .links a {
+        font-size: 12px;
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
+        color: rgb(52, 82, 89);
+    }
+
+    form .links a:hover {
+        color: #2D7B67;
+    }
+}
